@@ -1,3 +1,6 @@
+# full solution training of neural network to be used in nn_plots
+###########################################################################
+
 import matplotlib.pyplot as plt
 import numpy as np
 from scipy import linalg
