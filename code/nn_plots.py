@@ -1,3 +1,6 @@
+# loop to test full solution map for multiple values of N_train (training size)
+##################################################################################
+
 import numpy as np
 import torch
 import matplotlib.pyplot as plt
